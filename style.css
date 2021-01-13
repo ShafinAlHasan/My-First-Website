@@ -1,0 +1,64 @@
+h1.title{
+    font-size: 50px;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0%;
+}
+.colorful_heading{
+    color: orange;
+}
+span.highlighted_lines_web{
+    color:red;
+    font: bold;
+}
+.first_row{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first_row img{
+    width: 100%;
+    margin-top: 20px;
+}
+#first_section{
+    height: 500px;
+    background-image: url(related_images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.demo_button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, orange, red);
+    color: white;
+    padding: 10px 20px;
+
+}
+#second_section{
+    height: 500px;
+    margin-top: 200px;
+    background-image: url("related_images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: right;
+}
+.single_experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 40%;
+}
+#full_stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#python_based{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, white, blue);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
