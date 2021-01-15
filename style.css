@@ -17,10 +17,21 @@ span.highlighted_lines_web{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    padding-top: 5%;
+}
+.second_row{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .first_row img{
     width: 100%;
     margin-top: 20px;
+}
+.second_row img{
+    width: 100%;
+    padding-bottom: 500px;
 }
 #first_section{
     height: 500px;
@@ -33,7 +44,12 @@ span.highlighted_lines_web{
     background-image: linear-gradient(90deg, orange, red);
     color: white;
     padding: 10px 20px;
-
+}
+.cloud_button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, black, grey);
+    color: white;
+    padding: 10px 20px;
 }
 #second_section{
     height: 500px;
@@ -62,3 +78,30 @@ footer{
     text-align: center;
     font-size: 15px;
 }
+#third_section{
+    background-color: #E5E5E5;
+    height: 500px;
+    width: 100%;
+    background-size: 50%;
+    position: absolute;
+}
+#third_section_heading{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: center;
+}
+.third_row img{
+    width: 100%;
+}
+.third_row{
+    box-sizing: content-box;
+    text-align: center;
+    width: 20%;
+    height: 50%;
+    padding: 1%;
+    margin: 5%;
+    background-color: white;
+    float: left;
+}
+
