@@ -1,2 +1,2 @@
 # My-First-Website
- Building My first Website
+ This is My First Built Website. This was the First Assignment during My Web Developement Learning Process. 
